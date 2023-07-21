@@ -4,4 +4,4 @@
 
 - no instrution
 - ![screenshot working code](./assets/weather.png)
-- (Deployed Link)[https://yamyam500.github.io/Weather-Dashboard/index.html]
+- (Deployed Link)[https://github.com/yamyam500/Weather-Dashboard/index.html]
