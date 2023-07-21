@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+    background-color: #1E6091;
+    margin:0 !important;
+    width:100vw !important;
+    height:20vh;
+    color:whitesmoke;
+}
+
+.input-form{
+    margin-top:2vh;
+    margin-bottom: 2vh;;
+}
+
+
+.forecast{
+    display:flex;
+    justify-content: center;
+    gap:10px;
+    margin-top:5vh;
+}
